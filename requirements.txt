@@ -1,4 +1,4 @@
 # requirements.txt
 pip install --upgrade pip
 snowflake-snowpark-python
-streamlit.title('Customize Your Smoothie!')
+streamlit
