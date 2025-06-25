@@ -1,9 +1,4 @@
-#pip install --upgrade pip 
-#snowflake-snowpark-python
-#streamlit.title('My Parents New Healthy Diner')
-plotly
-scipy
-pandas
-Flask
-flask-cors
-pyforest
+pip install --upgrade pip 
+snowflake-snowpark-python
+streamlit.title('My Parents New Healthy Diner')
+
